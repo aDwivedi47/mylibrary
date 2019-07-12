@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WhatappCallNotify</string>
+    <string name="action_settings">Settings</string>
+    <string name="phone_permission_required_to_maintain">Phone Permission is required to track ringing event</string>
+    <string name="phone_permission_required">Phone Permission Required</string>
+    <string name="forcefully_phone_permission_description">You have forcefully denied Phone permission for this action. Please open settings, go to permissions and allow them.</string>
+
+
+</resources>
